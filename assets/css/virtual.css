@@ -76,7 +76,7 @@ body {
 }
 
 .fw-medium {
-    font-weight: 500;
+    font-weight: 100;
 }
 
 .fw-normal {
@@ -335,6 +335,11 @@ a:hover, a:active {
 .bg-theme-gradient {
     background-image: linear-gradient(to right, #f55745 0%, #8490ff 100%) !important;
 }
+
+.bg-theme-black {
+    background-color: #000000 !important;
+}
+
 
 .bg-theme-red {
     background-color: #ef3724 !important;
