@@ -333,7 +333,7 @@ a:hover, a:active {
 */
 
 .bg-theme-gradient {
-    background-image: linear-gradient(to right, #f55745 0%, #8490ff 100%) !important;
+    background-image: linear-gradient(to right, #000000 0%, #8490ff 100%) !important;
 }
 
 .bg-theme-red {
