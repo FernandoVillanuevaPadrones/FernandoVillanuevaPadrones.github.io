@@ -1,6 +1,17 @@
-.video {
-    align-self: center;
-    width: 50%px;
-    height: auto;
-    margin: auto;
+.topSpace {
+    margin-top: 50px;
+}
+
+.topSpaceMinigames {
+    margin-top: 100px;
+}
+
+#rightPhoto {
+    float: right;    
+    margin: 0 0 0px 15px;
+}
+
+#leftPhoto {
+    float: left;    
+    margin: 0 0 0 0px;
 }
